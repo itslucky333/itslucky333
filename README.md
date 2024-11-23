@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itslucky333
 - 👀 I’m interested in simple things
 - 🌱 I’m currently learning software development 
-- 💞️ I’m looking to collaborate on RFID
+- 💞️ I’m looking to collaborate on Deep learning, NLP, Generative AI
 - 📫 How to reach me justkantapoudel@gmail.com
 
 <!---
